@@ -1,27 +1,48 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
 }
 
 #quiz-container {
     width: 80%;
     margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
 }
 
 #question {
     font-size: 1.5em;
+    margin-bottom: 10px;
 }
 
 #choices {
     margin-top: 1em;
+    display: flex;
+    flex-direction: column;
 }
 
 button {
     padding: 10px;
     margin-top: 1em;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#start-btn {
+    background-color: purple;
+    color: white;
+    font-size: 1.5em;
+    padding: 15px;
 }
 
 #timer {
     position: absolute;
     top: 10px;
     right: 10px;
+    font-size: 1.2em;
 }
