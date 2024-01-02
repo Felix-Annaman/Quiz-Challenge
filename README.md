@@ -13,3 +13,5 @@ As a user, I want to take a code quiz. When I click the start button, a timer st
 - HTML
 - CSS
 - JavaScript
+
+- ![image](https://github.com/Felix-Annaman/Quiz-Challenge/assets/150185196/d08124da-b0c5-4be1-9f21-b486634baeee)
