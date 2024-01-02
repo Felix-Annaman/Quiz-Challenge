@@ -1,6 +1,14 @@
 var questions = [
     { question: "What is the correct way to declare a variable in JavaScript?"
     , choices: ["a) var x = 5;", "b) x = 5;", "c) let x = 5;"], answer: "let x = 5;" },
+    { question: "Which of the following is not a JavaScript conditional statement?"
+    , choices: ["a) for", "b) if", "c) else"], answer: "for" },
+    { question: "Which of the following is not a programming language??"
+    , choices: ["a) HTML", "b) Chat GPT", "c) Python"], answer: "Chat GPT" },
+    { question: "What is the correct CSS syntax to change the color of all paragraphs to red?"
+    , choices: ["a) p {color: red;}", "b) p.color = red", "c) paragraph.color = red;"], answer: "p {color: red;}" },
+    { question: " Which of the following is not a valid HTML tag?"
+    , choices: ["a) <p>", "b) <div>", "c) <paragraph>"], answer: "<paragraph>" },
     
 ];
 
